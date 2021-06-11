@@ -1,0 +1,1 @@
+@Start /im disablecortana.reg

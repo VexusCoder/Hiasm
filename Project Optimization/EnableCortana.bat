@@ -1,0 +1,1 @@
+@Start /im EnableCortana.reg
